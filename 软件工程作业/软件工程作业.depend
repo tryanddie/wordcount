@@ -3,3 +3,9 @@
 	<stdio.h>
 	<stdlib.h>
 
+1584173878 source:e:\git\work\wordcount\软件工程作业\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
